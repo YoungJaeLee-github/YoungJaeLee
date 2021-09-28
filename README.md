@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJaeLee-github&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJaeLee-github&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJaeLee-github&layout=compact)
 
 ### 📱 Contact 
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-yellow?style=flat-square&logo=Blogger&logoColor=white)](https://youngjaelee.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudwo8528@gmail.com)](mailto:dudwo8528@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngjaelee1026/)](https://www.linkedin.com/in/youngjaelee1026/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/oct.1026/)
