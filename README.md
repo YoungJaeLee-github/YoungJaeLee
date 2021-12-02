@@ -2,7 +2,7 @@
 #### Stay Hungry, Stay Foolish! 📒
 
 ### 🛠 Tech Stack 
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-yellow?style=flat-square&logo=Blogger&logoColor=white)](https://youngjaelee.tistory.com/)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-yellow?style=flat-square&logo=Blogger&logoColor=white)](https://youngjaelee-github.github.io/)
 
 [![iOS Badge](https://img.shields.io/badge/-iOS%20App%20Programming-black?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/kr/) [![Swift Badge](https://img.shields.io/badge/-Swift-%23FA7343?style=flat-square&logo=Swift&logoColor=white)](https://swift.org/getting-started/) [![Java Badge](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=white)](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) [![Node.js Badge](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/ko/docs/) [![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/) [![Linux Badge](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=Linux&logoColor=white)](https://help.ubuntu.com/) [![macOS Badge](https://img.shields.io/badge/-macOS-%23000000?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/macos/) [![Xcode Badge](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=Xcode&logoColor=#147EFB)](https://developer.apple.com/kr/xcode/) [![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/doc) 
 
